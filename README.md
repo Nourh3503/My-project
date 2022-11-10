@@ -1,8 +1,8 @@
-<h1>Authentication by using social media Facebook and Google by following the mechanism of open ID with php composer</h1>
+<h1>Authentication by using social media Github by following the mechanism of open ID with php composer</h1>
 
 <h3>Title of project: Authentication by using single sign-on</h3>
 
-In this project we are going to implement authentication by using single sign-on with the help of social platforms Facebook and Google.
+In this project we are going to implement authentication by using single sign-on with the help of social platforms Github.
 
 <h3>Programming languages use in development</h3>
 
@@ -22,8 +22,7 @@ In this project we are going to implement authentication by using single sign-on
 2.	In server file we grab this information and apply authentication functionality on it.
 <h3>Front end code with backlinks:</h3>
 
-For facebook we use: authentication/backend.php?keyword=facebook 
-For google we use: authentication/backend.php?keyword=google
+For Github we use: authentication/backend.php?keyword=Github
 
 <h3>Backend code: </h3>
 Backend code we put in authentication folder.
